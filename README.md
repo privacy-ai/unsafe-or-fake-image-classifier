@@ -1,6 +1,6 @@
 # nsfw-classifier
 
-** Note: Please be assured that the images you send to the our API are not saved or stored in any way. The API only processes the images to identify NSFW content and returns the results to you. Therefore, it is safe to use this API with your sensitive or confidential images. **
+**Note: Please be assured that the images you send to the our API are not saved or stored in any way. The API only processes the images to identify NSFW content and returns the results to you. Therefore, it is safe to use this API with your sensitive or confidential images.**
 
 
 This is an API for identifying NSFW (Not Safe For Work) content in images. The API uses machine learning algorithms to detect the presence of adult content, including nudity, sexual activity, and other explicit content.
