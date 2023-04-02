@@ -7,6 +7,7 @@ This is an API for identifying NSFW (Not Safe For Work) content in images. The A
 
 To obtain a free API key, please send a request to contactus@skymel.com
 
+
 ## Features
 
 * Identifies NSFW content in images
@@ -37,6 +38,6 @@ To use the API, simply send a POST request to the endpoint https://modelpubsub.c
   }
 }
 ```
-
+go to wiki for more information: https://github.com/privacy-ai/unsafe-or-fake-image-classifier/wiki
 
 The nsfw field will be true if NSFW content is detected in the image, and false otherwise. The tags field is an array of tags describing the detected NSFW content.
