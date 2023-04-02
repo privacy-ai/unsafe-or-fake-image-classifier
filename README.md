@@ -21,11 +21,11 @@ To use the API, simply send a POST request to the endpoint https://modelpubsub.c
 
 **Please note that the latency of the API may vary depending on the size and complexity of the image being processed. Additionally, the latency for the free version of the API may be higher than the paid versions.**
 
-### Example image:
+### Example image - Trump fake arrest:
 
 ![Trump fake arrest](https://pbs.twimg.com/card_img/1640755770156253185/CIStxnVY?format=jpg&name=900x900)
 
-### Example response:
+### Example response- Trump fake arrest:
 
 ```
 {
