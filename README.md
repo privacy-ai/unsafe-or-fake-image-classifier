@@ -1,4 +1,4 @@
-# unsafe-image-classifier
+# unsafe-fake-image-classifier
 
 **Note: Please be assured that the images you send to the our API are not saved or stored in any way. The API only processes the images to identify NSFW content and returns the results to you. Therefore, it is safe to use this API with your sensitive or confidential images.**
 
