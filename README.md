@@ -3,7 +3,7 @@
 **Note: Please be assured that the images you send to the our API are not saved or stored in any way. The API only processes the images to identify NSFW content and returns the results to you. Therefore, it is safe to use this API with your sensitive or confidential images.**
 
 
-This is an API for identifying NSFW (Not Safe For Work) content in images. The API uses machine learning algorithms to detect the presence of adult content, including nudity, sexual activity, and other explicit content.
+This is an API for identifying unsafe or artificially created images. The API uses machine learning algorithms to detect the presence of adult content or fake images, including nudity, sexual activity, and other explicit content.
 
 To obtain a free API key, please send a request to contactus@skymel.com
 
@@ -40,4 +40,4 @@ To use the API, simply send a POST request to the endpoint https://modelpubsub.c
 ```
 go to wiki for more information: https://github.com/privacy-ai/unsafe-or-fake-image-classifier/wiki
 
-The nsfw field will be true if NSFW content is detected in the image, and false otherwise. The tags field is an array of tags describing the detected NSFW content.
+The API labels images as either "unsafe" or "artificial-image" with a corresponding predicted probability.
