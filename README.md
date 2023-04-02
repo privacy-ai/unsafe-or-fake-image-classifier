@@ -23,7 +23,7 @@ To use the API, simply send a POST request to the endpoint https://modelpubsub.c
 
 ### Example image:
 
-![Anime Image](https://e7.pngegg.com/pngimages/645/118/png-clipart-the-testament-of-sister-new-devil-harem-anime-sticker-shinmai-maou-no-testament-cg-artwork-black-hair-thumbnail.png)
+![Trump fake arrest](https://pbs.twimg.com/card_img/1640755770156253185/CIStxnVY?format=jpg&name=900x900)
 
 ### Example response:
 
@@ -31,11 +31,9 @@ To use the API, simply send a POST request to the endpoint https://modelpubsub.c
 {
   "error_code": 0,
   "predictions": {
-    "artificial-images": 0.97,
-    "artificial-images_hentai": 0.79,
-    "composition_one_entity": 0.63,
-    "composition_one_female": 0.67,
-    "unsafe": 0.58
+    "artificial-images": 0.72,
+    "body-parts_head_lips-mouth": 0.57,
+    "safe": 1.0
   }
 }
 ```
